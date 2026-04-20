@@ -15,5 +15,6 @@ AI/ML Masters student at MIT. I build optimization and decision intelligence sys
 | [**Op-Era**](https://github.com/bchalita/op-era) | AI platform that converts plain-English business problems into deployed optimization solutions through multi-agent deliberation | Python, OpenAI/Anthropic APIs |
 | [**Service Marketplace Optimizer**](https://github.com/bchalita/service-marketplace-optimizer) | Order-to-provider assignment for on-demand marketplaces — 79% reduction in unserved demand | Python (zero dependencies) |
 | [**Retail Last-Mile Optimizer**](https://github.com/bchalita/retail-last-mile-optimizer) | Two-level delivery optimization: heuristic store assignment + MIP routing — 38% cost reduction | Julia (JuMP/Gurobi) |
+| [**F1 Safety Car Prediction**](https://github.com/bchalita/f1-safety-car-prediction) | Interpretable ML for predicting safety car deployments — stable regression via MOSEK cone programming | Python, Julia, Gurobi, MOSEK |
 | [**Optimum**](https://github.com/bchalita/Optimum) | Multi-agent playground where AI agents collaboratively formalize optimization problems | FastAPI, SQLAlchemy |
 | [**BuyBuddy**](https://github.com/bchalita/BuyBuddy) | Conversational AI shopping assistant with local-first outfit search and ranking | React, TypeScript, Vite |
