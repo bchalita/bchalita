@@ -1,6 +1,6 @@
 ### Hi, I'm Bernardo
 
-AI/ML Masters student at MIT Media Lab. I build optimization and decision intelligence systems — from mathematical formulations to deployed pipelines.
+AI/ML Masters student at MIT. I build optimization and decision intelligence systems — from mathematical formulations to deployed pipelines.
 
 #### What I work on
 
